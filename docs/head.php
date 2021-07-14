@@ -31,34 +31,11 @@
             </a>
           </li>
           <li>
-            <a href="./portfolio.html" class="flex items-center h-full px-4">
+            <a href="./portfolio.php" class="flex items-center h-full px-4">
               포트폴리오
             </a>
           </li>
         </ul>
       </div>
     </header>
-
     <main>
-      <section class="section-1">
-        <div class="container mx-auto">
-          메인 내용 1
-        </div>
-      </section>
-
-      <section class="section-2">
-        <div class="container mx-auto">
-          메인 내용 2
-        </div>
-      </section>
-    </main>
-
-    <footer class="flex items-center justify-center h-16 text-center bg-red-500">
-      푸터
-      <a href="./" class="flex items-center px-4 logo">
-        로고
-      </a>
-    </footer>
-  </div>
-</body>
-</html>
